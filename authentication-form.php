@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-    
+        <title>My Authetication Form</title>
     </head>
 
     <body>
